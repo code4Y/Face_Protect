@@ -1,0 +1,74 @@
+C:\MYFACE\bin\Debug\MYFACE.exe.config
+C:\MYFACE\bin\Debug\MYFACE.exe
+C:\MYFACE\bin\Debug\MYFACE.pdb
+C:\MYFACE\obj\Debug\MYFACE.Properties.Resources.resources
+C:\MYFACE\obj\Debug\MYFACE.csproj.GenerateResource.cache
+C:\MYFACE\obj\Debug\MYFACE.csproj.CoreCompileInputs.cache
+C:\MYFACE\obj\Debug\MYFACE.exe
+C:\MYFACE\obj\Debug\MYFACE.pdb
+C:\MYFACE\obj\Debug\MYFACE.Form1.resources
+C:\MYFACE\obj\Debug\MYFACE.csproj.CopyComplete
+C:\MYFACE\bin\Debug\Emgu.CV.UI.dll
+C:\MYFACE\bin\Debug\Emgu.CV.UI.GL.dll
+C:\MYFACE\bin\Debug\Emgu.CV.World.dll
+C:\MYFACE\bin\Debug\OpenTK.dll
+C:\MYFACE\bin\Debug\OpenTK.GLControl.dll
+C:\MYFACE\bin\Debug\ZedGraph.dll
+C:\MYFACE\bin\Debug\Emgu.CV.UI.xml
+C:\MYFACE\bin\Debug\Emgu.CV.UI.GL.xml
+C:\MYFACE\bin\Debug\Emgu.CV.World.xml
+C:\MYFACE\bin\Debug\OpenTK.xml
+C:\MYFACE\bin\Debug\OpenTK.GLControl.xml
+C:\MYFACE\bin\Debug\ZedGraph.xml
+C:\MYFACE\bin\Debug\de\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\es\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\fr\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\hu\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\it\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\ja\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\pt\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\ru\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\sk\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\sv\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\tr\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\MYFACE\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\MYFACE\obj\Debug\MYFACE.csprojAssemblyReference.cache
+C:\MYFACE\obj\Debug\MYFACE.Play.resources
+G:\CSharp\Fruit Ninja\bin\Debug\MYFACE.exe.config
+G:\CSharp\Fruit Ninja\bin\Debug\MYFACE.exe
+G:\CSharp\Fruit Ninja\bin\Debug\MYFACE.pdb
+G:\CSharp\Fruit Ninja\bin\Debug\Emgu.CV.UI.dll
+G:\CSharp\Fruit Ninja\bin\Debug\Emgu.CV.UI.GL.dll
+G:\CSharp\Fruit Ninja\bin\Debug\Emgu.CV.World.dll
+G:\CSharp\Fruit Ninja\bin\Debug\OpenTK.dll
+G:\CSharp\Fruit Ninja\bin\Debug\OpenTK.GLControl.dll
+G:\CSharp\Fruit Ninja\bin\Debug\ZedGraph.dll
+G:\CSharp\Fruit Ninja\bin\Debug\Emgu.CV.UI.xml
+G:\CSharp\Fruit Ninja\bin\Debug\Emgu.CV.UI.GL.xml
+G:\CSharp\Fruit Ninja\bin\Debug\Emgu.CV.World.xml
+G:\CSharp\Fruit Ninja\bin\Debug\OpenTK.xml
+G:\CSharp\Fruit Ninja\bin\Debug\OpenTK.GLControl.xml
+G:\CSharp\Fruit Ninja\bin\Debug\ZedGraph.xml
+G:\CSharp\Fruit Ninja\bin\Debug\de\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\es\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\fr\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\hu\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\it\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\ja\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\pt\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\ru\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\sk\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\sv\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\tr\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.csprojAssemblyReference.cache
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.Play.resources
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.Properties.Resources.resources
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.csproj.GenerateResource.cache
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.csproj.CoreCompileInputs.cache
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.csproj.CopyComplete
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.exe
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.pdb
+G:\CSharp\Fruit Ninja\obj\Debug\MYFACE.Face_Main_Form.resources

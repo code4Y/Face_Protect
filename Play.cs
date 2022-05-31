@@ -51,7 +51,7 @@ namespace MYFACE
             pictureBox_basket.Height = 40;
             pictureBox1.Controls.Add(pictureBox_basket); 
 
-            ///ITO ANG PANG KUHA NG POINTS PAG DITO DUMIKIT
+            // Adding the basket to collect fruits
             pictureBox1.Controls.Add(pictureBox_basket_top_layer);
             pictureBox_basket_top_layer.BringToFront();
             pictureBox_basket_top_layer.BackColor = Color.Silver;
@@ -66,7 +66,7 @@ namespace MYFACE
         }
         private void basket_collision(PictureBox pictureBox_fruit)
         {
-            if (pictureBox_basket_top_layer.Bounds.IntersectsWith(pictureBox_fruit.Bounds))//SHOOT INSIDE THE BASKET
+            if (pictureBox_basket_top_layer.Bounds.IntersectsWith(pictureBox_fruit.Bounds))   // Fruit goes inside the basket
             {
                 loadFruits(pictureBox_fruit);
                 score++;
@@ -76,20 +76,20 @@ namespace MYFACE
 
         private void loadFruits(PictureBox pictureBox_fruit)
         {
-            //SET THE IMAGE PROPERTIES
+            // Set the image properties
             pictureBox_fruit.Width = 50;
             pictureBox_fruit.Height = 50;
             pictureBox_fruit.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox_fruit.BringToFront();
 
-            //SET LOCATION OF THE FRUITS
+            // Set location of fruits
             Random randomX = new Random();
             Random randomY = new Random();
             int locationX = randomX.Next(0,320);
             int locationY = randomY.Next(100,500);
             pictureBox_fruit.Location = new Point(locationX, -locationY);
 
-            //SET RANDOM IMAGE
+            // Set random image
             Random randomImage = new Random();
             int image = randomX.Next(0, 7);
             if(image == 0)

@@ -15,7 +15,7 @@ need Face Protect a facial authenticator to protect our apps & data on our Deskt
 
 
 #### How to Run / Execute the Application from .exe
-- Go to *bin/Debug* -> run **MYFACE.exe** 
+- Go to [*bin/Debug*](https://github.com/code4Y/Face_Protect/tree/main/bin/Debug) -> run **MYFACE.exe** 
 
 <br/>
 
@@ -24,7 +24,7 @@ need Face Protect a facial authenticator to protect our apps & data on our Deskt
 [![Face Protect Demo](https://img.youtube.com/vi/lmMq4UMkEc8/0.jpg)](https://www.youtube.com/watch?v=lmMq4UMkEc8)  
 
 - Turn ON Closed Captions!   
-- Description of video will add value as well 😄  
+- Description of video will add some value too 😄  
    
 <br/>
 
@@ -61,9 +61,11 @@ need Face Protect a facial authenticator to protect our apps & data on our Deskt
 Packages are already included with this project.  
 - EmguCV v3.1.0.1  
 - FaceRecognition.dll  
+- Haarcascade 
 
 If you get errors related to EmguCV you could download it through **NuGet Package Manager** by right clicking on 
 *References* in *Solution Explorer* window and select *NuGet Package Manager* the click on *Browse Tab*, search for *EmguCV* and *Install*.   
 <br/>
-If you get errors related to *FacRec* or *FaceRec_Location* functions you can add reference to FaceRecognition.dll through "*Reference*" option in *Solution Explorer* window and right click, *Add Reference* option, now Reference Manager window will pop up, *browse* to *bin/Debug* and double click *FaceRecognition.dll* then press *OK*.
-
+If you get errors related to *FacRec* or *FaceRec_Location* functions you can add reference to FaceRecognition.dll through "*Reference*" option in *Solution Explorer* window and right click, *Add Reference* option, now Reference Manager window will pop up, *browse* to *bin/Debug* and double click *FaceRecognition.dll* then press *OK*.  
+<br/>
+Haarcascade folder is in *bin/Debug* which contains a pre-trained face detection model which helps in detecting face.   

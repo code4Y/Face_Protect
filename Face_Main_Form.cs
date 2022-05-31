@@ -34,20 +34,19 @@ namespace MYFACE
 
         private void btnCam_Click(object sender, EventArgs e)
         {
-            faceRec.openCamera(pictureBoxCam, pictureBoxFace);
+            faceRec.openCamera(pictureBoxCam, pictureBoxFace);   // turns On camera
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
             
-            faceRec.isTrained = true;   // detecting person
+            faceRec.isTrained = true;   // starts matching faces in live video stream
 
             faceRec.getPersonName(label6); 
 
             if (textBoxUser.Text == label6.Text && textBoxUser.Text != null)
             {
                faceRec.getPersonName(labelWelUser);
-             //  labelWelUser.Text = label7.Text;
                pictureBoxCam.Hide();
                pictureBoxFace.Hide();
             }
@@ -56,9 +55,8 @@ namespace MYFACE
 
         private void btnSignup_Click(object sender, EventArgs e)
         {
-
-                faceRec.Save_IMAGE(textBoxUser.Text);   // Saving person image identity
-                MessageBox.Show("User Save success! \nNow you can Login !");
+            faceRec.Save_IMAGE(textBoxUser.Text);   // Saving person's image identity
+            MessageBox.Show("User Save success! \nNow you can Login !");
 
         }
 

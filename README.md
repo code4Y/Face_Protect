@@ -15,7 +15,7 @@ need Face Protect a facial authenticator to protect our apps & data on our Deskt
 
 
 #### How to Run / Execute the Application from .exe
-- Go to *bin/Debug* -> run **MYFACE.exe** 
+- Go to [*bin/Debug*](https://github.com/code4Y/Face_Protect/tree/main/bin/Debug) -> run **MYFACE.exe** 
 
 <br/>
 
@@ -24,7 +24,7 @@ need Face Protect a facial authenticator to protect our apps & data on our Deskt
 [![Face Protect Demo](https://img.youtube.com/vi/lmMq4UMkEc8/0.jpg)](https://www.youtube.com/watch?v=lmMq4UMkEc8)  
 
 - Turn ON Closed Captions!   
-- Description of video will add value as well 😄  
+- Description of video will add some value too 😄  
    
 <br/>
 
